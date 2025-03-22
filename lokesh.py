@@ -1,0 +1,1 @@
+print('manoj is nteligent boy')
